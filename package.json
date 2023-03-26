@@ -1,0 +1,23 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jefflai0315/jefflaiwebsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jefflai0315/jefflaiwebsite/issues"
+  },
+  "homepage": "https://github.com/Jefflai0315/jefflaiwebsite#readme",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
