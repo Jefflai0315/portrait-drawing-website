@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Jefflai0315/jefflaiwebsite#readme",
   "dependencies": {
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^5.0.0",
+    "three": "^0.150.1"
   }
 }
